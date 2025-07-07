@@ -17,5 +17,8 @@ Generate fantasy stories with the power of AI using Hugging Face Transformers an
 - **PyTorch**
 
 
+##  Screenshots
 
-![App Screenshot](./Screenshot%2025-07-07%124803.png)
+Below is a sample output generated using the prompt **"The AI slowly gained consciousness"**:
+
+![AI Dungeon Story Generator Screenshot](./Screenshot%202025-07-07%20124803.png)
