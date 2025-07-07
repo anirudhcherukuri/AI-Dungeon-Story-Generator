@@ -18,4 +18,4 @@ Generate fantasy stories with the power of AI using Hugging Face Transformers an
 
 
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot%2025-07-07%124803.png)
